@@ -7,7 +7,7 @@ div#container
 	
 div#logo
 	{
-		background-color:black;
+		background-color:#330000;
 		color:white;
 		text-align:center;
 		padding:15px;
@@ -16,11 +16,11 @@ div#logo
 div#nav
 	{
 		float:left;
-		background-color:lightgray;
+		background-color:#ff9900;
 		width:120px
 		min-height:620px;
 		padding:10px;
-		height: 500px;
+		height: 900px;
 	}
 	
 div#content
@@ -33,7 +33,7 @@ div#content
 div#footer
 	{
 		clear:both;
-		background-color:black;
+		background-color:#330000;
 		color:white;
 		text-align:center;
 		padding:20px;
